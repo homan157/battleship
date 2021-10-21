@@ -1,6 +1,6 @@
 # battleship
 Written by Blake Homan in October 2019
-Battleship program with rudementary easy and hard "AI"
+Battleship program with rudimentary easy and hard "AI"
 
 
 Notes about starting the game:
