@@ -1,5 +1,5 @@
 # battleship
-Written by Blake Homan in October 2019
+Written in October 2019
 Battleship program with rudimentary easy and hard "AI"
 
 
